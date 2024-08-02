@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-
+"""Log filterer which obfuscates PII.
+"""
 import logging
 import os
 import re
